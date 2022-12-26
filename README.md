@@ -1,6 +1,6 @@
 # ms_teams_webhook
 
-This is a Rust crate for sending messages to Microsoft Teams via webhooks.
+This is a Rust crate that can be used for sending messages to Microsoft Teams via webhooks.
 
 ## Installation
 
